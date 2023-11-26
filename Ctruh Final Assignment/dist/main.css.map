@@ -1,0 +1,1 @@
+{"version":3,"file":"main.css","mappings":"AAAA;EACE,SAAS;EACT,UAAU;AACZ;;AAEA;EACE,aAAa;AACf;AACA;EACE,eAAe;EACf,MAAM;EACN,OAAO;AACT","sources":["webpack:///./src/style.css"],"sourcesContent":["* {\n  margin: 0;\n  padding: 0;\n}\n\nbody {\n  height: 100vh;\n}\n.draw {\n  position: fixed;\n  top: 0;\n  left: 0;\n}\n"],"names":[],"sourceRoot":""}
